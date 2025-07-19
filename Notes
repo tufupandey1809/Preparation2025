@@ -164,6 +164,28 @@ Coforge
 
 7. Difference between repository pattern and abstract factory pattern.
 
+Impelsys
+=========
+1. Count number of char occurrence in a string = "I am Devashish".
+2. Implement LSP
+
+StatusNeo
+==========
+1. Explain the lifecycle hooks in angular?
+2. What you name use 5 ng  generate commands?
+3. Give examples of class decorators ?
+4. Sql (What is self-join) 
+5. .Net Core (What is Kestrel Server?) 
+6. Features of API gateway (Any three)
+7. Perform the binding in angular using html table. Interpolation, two way binding and property binding.
+8. Get data from http (External server) in angular and display in a html table.
+
+MotherSon
+==========
+1. In a razor page, need to have a property which can be assigned globally. How this can be achieved.
+2. Decorators in angular and their structure.
+3. Can session storage be possible in ASP.Net MVC also ? It is possible in asp.net web forms though.
+
 
 
 
