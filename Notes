@@ -1,0 +1,37 @@
+F5 Web Solutions
+=================
+1. Different ways to pass data from View to Controller.
+2. Use of CTE in Sql Server
+
+Nashtech Global
+================
+1. Write linq query to fetch Nth highest salary.
+2. Write sql query to fetch Nth highest salary.
+3. How many types of constructors can be in a class.
+
+Neos
+====
+	1. What all decorators you have worked in angular.
+	2. How you implemented Authorization in your project.
+	3. Implement lazy loading in angular
+	4. Put vs post in web api, which will be faster.
+	5. Unit testing in angular using Karma.
+	6. AOT explain
+  7. How to look for the errors while loading a component.
+  8. Restrict a class to create only 5 instances.
+
+Encora
+=======
+
+	1. Azure service bus.
+	2. Topics and Subscription.
+	3. Azure Event grids
+	4. Azure Cosmos db
+	5. Azure Blob storage
+	6. Where to save the token and cookie in browser.
+	7. Azure Microservices
+  8. Difference between left and right join
+
+
+
+
