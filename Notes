@@ -11,26 +11,69 @@ Nashtech Global
 
 Neos
 ====
-	1. What all decorators you have worked in angular.
-	2. How you implemented Authorization in your project.
-	3. Implement lazy loading in angular
-	4. Put vs post in web api, which will be faster.
-	5. Unit testing in angular using Karma.
-	6. AOT explain
-  7. How to look for the errors while loading a component.
-  8. Restrict a class to create only 5 instances.
+1. What all decorators you have worked in angular.
+2. How you implemented Authorization in your project.
+3. Implement lazy loading in angular
+4. Put vs post in web api, which will be faster.
+5. Unit testing in angular using Karma.
+6. AOT explain
+7. How to look for the errors while loading a component.
+8. Restrict a class to create only 5 instances.
 
 Encora
 =======
 
-	1. Azure service bus.
-	2. Topics and Subscription.
-	3. Azure Event grids
-	4. Azure Cosmos db
-	5. Azure Blob storage
-	6. Where to save the token and cookie in browser.
-	7. Azure Microservices
-  8. Difference between left and right join
+1. Azure service bus.
+2. Topics and Subscription.
+3. Azure Event grids
+4. Azure Cosmos db
+5. Azure Blob storage
+6. Where to save the token and cookie in browser.
+7. Azure Microservices
+8. Difference between left and right join
+
+Bakor and Taylor
+================
+1.Use of Aggregate functions. Use sum function using GroupBy
+
+Infovision
+===========
+1.Write a query in linq to get the first record from a collection.
+2.Difference between clustered and non clustered index.
+3.Write a program to reverse the name : Devashish
+
+CloudAngle
+===========
+1.Input: var arr= {1,3,2,3,1,2,1,2}
+  Output: {2,2,2,3,3,1,1,1}
+
+2.Get the recent order from the employees table for each employee using rank function.
+  Employees: 
+  User
+  Id
+  Name 
+  Order
+  Id
+  UserId
+  OrderDesc
+  OrderDate
+
+3.Different types of functions in sql server.
+4.Difference between Function and Stored procedure.
+5.Report of all the users with the last order using rank function.
+6.Input as a string and output if there are more than one occurrence.
+7.Difference between value type vs reference type.
+8.Types of index in sql server
+
+RSystems
+=========
+
+1.Explain Microservices architecture. What design patterns we follow on this. 
+2.How to improve the performance of a query.
+3.How to perform dependency injection in asp.net core application.
+4.Explain Transient, Scoped and Singleton life time of a service
+5.What is CORS and how to configure it in ASP.Net MVC Core project
+
 
 
 
