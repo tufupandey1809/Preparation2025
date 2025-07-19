@@ -35,6 +35,17 @@ Encora
 Bakor and Taylor
 ================
 1.Use of Aggregate functions. Use sum function using GroupBy
+2.Use of Functions in sql server and their benefits.
+3.Use of Service Bus.
+4.Testing framework for .Net API and how were we faking the end points.
+5.How the microservices communicate with each other.
+6.Can we use indexes in temp tables.
+7.How to improve performance of a stored procedure.
+8.Difference between promise and observables.
+9.Testing framework of Angular
+10.Use of Event grid in Azure
+11.Queue and topics in Azure.
+
 
 Infovision
 ===========
@@ -72,7 +83,92 @@ RSystems
 2.How to improve the performance of a query.
 3.How to perform dependency injection in asp.net core application.
 4.Explain Transient, Scoped and Singleton life time of a service
-5.What is CORS and how to configure it in ASP.Net MVC Core project
+5.What is CORS and how to configure it in ASP.Net MVC Core project.
+
+Persistent Systems
+===================
+1. What is the use of AKS
+2. Pods in AKS
+3. Write a program in which user enters the length of array and then based on that need to create the even array and odd array.
+4. SQL Query optimization
+5. API gateway in microservices.
+6. Improve the performance in Angular.
+7. What is a cluster?
+8. What is the use of middlewares.
+
+L & T Infotech
+===============
+1.Find duplicate characters from your name.
+2.Write Fibonacci series.
+
+Coforge
+========
+1.Difference between multithreading and multitasking.
+2.How to do multitasking.
+3.Ngrx in angular
+4.Explain async and await.
+5. Write the output of the below program:
+
+       public class TestStatic
+       {
+          public static int TestValue; 
+          public TestStatic()
+          {
+            if (TestValue == 0)
+            {
+                TestValue = 5;
+            }
+          }
+          static TestStatic()
+          {
+            if (TestValue == 0)
+            {
+                TestValue = 10;
+            }
+          } 
+         public void Print()
+          {
+             if (TestValue == 5)
+             {
+                TestValue = 6;                
+             }
+             Console.WriteLine("TestValue : " + TestValue); 
+          } 
+        }
+ 
+        public void Main(string[] args)
+         { 
+            TestStatic t = new TestStatic();
+            t.Print();
+         }
+
+6. Write the output of the below program:
+
+   class Program {
+	
+   private static string result;
+
+   static void Main() 
+    {
+      SaySomething();
+      Console.WriteLine(result);
+    }
+  
+  static async Task<string> SaySomething() 
+   {
+     await Task.Delay(5);
+     result = "Hello world!";
+     return “Something”;
+   }
+}
+
+7. Difference between repository pattern and abstract factory pattern.
+
+
+
+
+
+
 
 
 
